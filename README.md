@@ -6,6 +6,6 @@
   - show read/unread status
   - shows date and time when message was sent
 
-`all data files are stored locally. So it can work on single machine.`
+`all data files are stored locally. So it only works on single machine.`
   
   
